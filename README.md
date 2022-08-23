@@ -41,6 +41,6 @@ Inspiration, code snippets, references, etc.
 
 * [FINN: A Framework for Fast, Scalable Binarized Neural Network Inference](https://xilinx.github.io/finn/)
 * [Xilinx/finn-hlslib](https://github.com/Xilinx/finn-hlslib)
-* [Convolutional Neural Network Accelerator (CNNA)]([https://github.com/Xilinx/brevitas](https://github.com/jonathan93sh/CNNA))
+* [Convolutional Neural Network Accelerator (CNNA)](https://github.com/jonathan93sh/CNNA)
 * [ZynqNet](https://github.com/dgschwend/zynqnet)
 
