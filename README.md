@@ -30,13 +30,12 @@ This paper proposed a HW/SW co-design approach for quantized 16-bit CNN scalable
 All source code is made available under a BSD 3-clause license. You can freely use and modify the code, without warranty, so long as you provide attribution
 to the authors. See `LICENSE.md` for the full license text.
 
-The manuscript text is currently accepted, and will be published soon as a conference paper in the IEEE Xplore Digital Library.
-
 ## Citation
 
 Please use the below citation till it updated from IEEE Xplore Digital Library,
 
-**2.	A. Alhussain and M. Lin, "Hardware-Efficient Template-Based Deep CNNs Accelerator Design," 16th IEEE International Conference on Networking, Architecture, and Storage (NAS) 2022, Oct 3-4, 2022, pp. 1-4. [Online]. Available: https://arxiv.org/abs/2207.10723**
+**2.	A. Alhussain and M. Lin, "Hardware-Efficient Template-Based Deep CNNs Accelerator Design," in 2022 IEEE International Conference on Networking, Architecture and Storage (NAS), Philadelphia, PA, USA, 2022 pp. 1-4.
+doi: 10.1109/NAS55553.2022.9925552**
 
 ## Acknowledgments
 
