@@ -32,8 +32,6 @@ to the authors. See `LICENSE.md` for the full license text.
 
 ## Citation
 
-Please use the below citation till it updated from IEEE Xplore Digital Library,
-
 **2.	A. Alhussain and M. Lin, "Hardware-Efficient Template-Based Deep CNNs Accelerator Design," in 2022 IEEE International Conference on Networking, Architecture and Storage (NAS), Philadelphia, PA, USA, 2022 pp. 1-4.
 doi: 10.1109/NAS55553.2022.9925552**
 
